@@ -1,0 +1,4 @@
+meta
+cbdc
+nft
+stablecoin
